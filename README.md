@@ -4,4 +4,4 @@ Ola! Sou Daniel H. Chessa de Lourena
 - 🌱 Estudando Javascript
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielchessahl)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,react,ts,nodejs,figma&theme=light)](https://skillicons.dev)
